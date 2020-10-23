@@ -9,9 +9,6 @@
 * 可定时，默认为每天7点5分
 * 默认每次提交上次所提交的内容（只有时间部分更新）
 
-![](https://raw.githubusercontent.com/lxy764139720/Figurebed/master/img/20200817185806.png)
-
-![](https://raw.githubusercontent.com/lxy764139720/Figurebed/master/img/20200817190036.png)
 
 ## Usage
 
@@ -89,8 +86,6 @@
 ![](https://raw.githubusercontent.com/lxy764139720/Figurebed/master/img/20200817194250.png)
 
 ---
-
-如本项目对您有所帮助，请帮忙点一个⭐star支持 一下作者。如有任何问题欢迎提交issue与我联系。
 
 参考开源仓库：
 
