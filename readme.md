@@ -25,7 +25,7 @@
 
 3. 打开健康打卡页面[https://wxxy.csu.edu.cn/ncov/wap/default/index](https://wxxy.csu.edu.cn/ncov/wap/default/index)
 
-4. 若跳转至此页面，输入学工号与门户密码进行登录![](https://raw.githubusercontent.com/lxy764139720/Figurebed/master/img/20200410114831.jpg)
+4. 若跳转至此页面，输入学工号与门户密码 进 行 登  录![](https://raw.githubusercontent.com/lxy764139720/Figurebed/master/img/20200410114831.jpg)
 
 5. 在左侧找到info并点开，在右侧找到Request Headers，将Cookie中的eai-sess和UUkey记录下来![](https://raw.githubusercontent.com/lxy764139720/Figurebed/master/img/20200410115438.jpg)
 
@@ -90,7 +90,7 @@
 
 ---
 
-如本项目对您有所帮助，请帮忙点一个⭐star支持一下作者。如有任何问题欢迎提交issue与我联系。
+如本项目对您有所帮助，请帮忙点一个⭐star支持 一下作者。如有任何问题欢迎提交issue与我联系。
 
 参考开源仓库：
 
